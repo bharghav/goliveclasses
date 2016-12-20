@@ -11449,7 +11449,7 @@ keyframes fa-spin { 0%{
 
 .parallax-counter-v3 .features span.counter:after {
 	color: #fff;
-	content: "ï§";
+	content: "Ã¯Â�Â§";
 	font-family: FontAwesome;
 	font-size: 18px;
 	padding: 0 5px;
@@ -11605,12 +11605,12 @@ keyframes fa-spin { 0%{
 }
 
 .flat-testimonials .flat-testimonials-in p:before {
-	content: "â€œ";
+	content: "Ã¢â‚¬Å“";
 	padding-right: 5px
 }
 
 .flat-testimonials .flat-testimonials-in p:after {
-	content: "â€";
+	content: "Ã¢â‚¬Â�";
 	padding-left: 5px
 }
 
@@ -12886,7 +12886,100 @@ keyframes fa-spin { 0%{
 }
 
 .counters {
-	color: #555
+	color: #fff;
+}
+.col-md-4.clearfix > span{color:#fff;}
+
+#footer {
+    background: #444 none repeat scroll 0 0;
+    padding: 60px 0 0;
+    text-align: left;
+    width: 100%;
+}
+#footer.litex {
+    background: #fcfcfc none repeat scroll 0 0;
+    border-top: 1px solid #e8e8e8;
+}
+#footer .row {
+    margin: 0;
+}
+.footer-in {
+    color: #ccc;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    position: relative;
+}
+.footer-in .columns {
+    margin-top: 20px;
+}
+.footer-in h5.subtitle, .toggle-top-area h5.subtitle {
+    color: #d0ae5e;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 1.5;
+    padding-bottom: 10px;
+    position: relative;
+    text-transform: uppercase;
+}
+#footer.litex .footer-in h5.subtitle {
+    color: #414141;
+}
+#footer h5.subtitle span, .toggle-top-area h5.subtitle span {
+    position: absolute;
+    right: 0;
+    text-align: right;
+}
+#footer h5.subtitle span a, .toggle-top-area h5.subtitle span a {
+    color: #787878;
+    font-size: 10px;
+    font-weight: 400;
+}
+#footer .widget ul.menu li::after {
+    content: "";
+    display: none;
+}
+#footer .widget ul.menu li {
+    border: medium none;
+    line-height: 1;
+}
+#footer .widget ul li:hover {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.footer-in hr {
+    border-color: #373737;
+}
+.footer-in .copyright-txt {
+    font-size: 12px;
+}
+.footer-in p, .footer-in .textwidget {
+    color: #efefef;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 1.74;
+}
+.footer-in .yp-ft-logo {
+    text-align: right;
+}
+.footer-in .yp-ft-logo img {
+    max-width: 90px;
+}
+.contact2 div {
+    line-height: 21px;
+}
+.footer-in a {
+    text-decoration: none;
+    transition: all 0.18s ease 0s;
+}
+.footer-sbc {
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+.footer-sbc input[type="text"], .footer-sbc input[type="submit"] {
+    float: left;
+    margin: 4px 7px;
 }
 
 @media ( max-width :767px) {
@@ -27748,6 +27841,11 @@ body {
 .nicdark_section {
 	width: 100%;
 	float: left
+}
+.counter_section {
+    width: 100%;
+    float: left;
+    background-color: #D0A748;
 }
 
 .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8,
