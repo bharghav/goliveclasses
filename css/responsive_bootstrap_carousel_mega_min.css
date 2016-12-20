@@ -552,6 +552,8 @@
 	transition: all ease-in-out .3s
 }
 
+
+
 .fixed_width_carousel_wrapper:hover .fixed_width_carousel_control_left,
 	.fixed_width_carousel_wrapper:hover .fixed_width_carousel_control_right
 	{
