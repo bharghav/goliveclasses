@@ -11423,7 +11423,7 @@ keyframes fa-spin { 0%{
 
 .parallax-counter-v3 .features span.counter:after {
 	color: #fff;
-	content: "Ã¯Â�Â§";
+	content: "ÃƒÂ¯Ã‚ï¿½Ã‚Â§";
 	font-family: FontAwesome;
 	font-size: 18px;
 	padding: 0 5px;
@@ -11579,12 +11579,12 @@ keyframes fa-spin { 0%{
 }
 
 .flat-testimonials .flat-testimonials-in p:before {
-	content: "Ã¢â‚¬Å“";
+	content: "ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ";
 	padding-right: 5px
 }
 
 .flat-testimonials .flat-testimonials-in p:after {
-	content: "Ã¢â‚¬Â�";
+	content: "ÃƒÂ¢Ã¢â€šÂ¬Ã‚ï¿½";
 	padding-left: 5px
 }
 
@@ -31227,7 +31227,7 @@ header::before {
 }
 .megamenu > ul a::before {
     color: #f27c66;
-    content: "";
+    content: "ï„‘";
     font-family: FontAwesome;
     font-size: 5px;
     padding-right: 5px;
@@ -31260,7 +31260,7 @@ header::before {
 }
 .main-nav > ul > li > ul a::before {
     color: #f27c66;
-    content: "";
+    content: "ï„‘";
     font-family: FontAwesome;
     font-size: 5px;
     padding-right: 5px;
@@ -31403,7 +31403,7 @@ header::before {
     width: 44px;
 }
 .mobile_nav .button_open::before {
-    content: "";
+    content: "ï„…";
     font-family: FontAwesome;
 }
 nav.main-nav.mobile_nav ul {
@@ -31471,17 +31471,17 @@ nav.main-nav.mobile_nav.opened ul {
     display: block;
 }
 .main-nav ul > .back a::before {
-    content: "";
+    content: "ï„„";
     font-family: FontAwesome;
     font-size: 19px;
     padding-right: 10px;
 }
 .mobile_nav .mobile_menu_switcher::before {
-    content: "";
+    content: "ï€¹";
     font-family: FontAwesome;
 }
 .mobile_nav.opened .mobile_menu_switcher::before {
-    content: "";
+    content: "ï€�";
 }
 .mobile_nav .header-megamenu {
     background-color: transparent;
@@ -31518,13 +31518,13 @@ footer h2::before {
     line-height: 25px;
 }
 .footer-about h2::before {
-    content: "";
+    content: "ï†�";
 }
 .footer-latest h2::before {
-    content: "";
+    content: "ï€—";
 }
 .footer-contact-form h2::before {
-    content: "";
+    content: "ï…‹";
 }
 .footer-latest h2 {
     background-color: #f9cb8f;
@@ -31556,16 +31556,16 @@ footer h3 {
     vertical-align: middle;
 }
 .footer-about address a.phone-number::before {
-    content: "";
+    content: "ï‚•";
 }
 .footer-about address a.email::before {
-    content: "";
+    content: "ïƒ ";
 }
 .footer-about address a.site::before {
-    content: "";
+    content: "ïƒ�";
 }
 .footer-about address a.address::before {
-    content: "";
+    content: "ï€•";
 }
 .footer-social a {
     background-color: transparent;
@@ -31639,7 +31639,7 @@ footer h3 {
     color: #666666;
 }
 footer .copyright span::before {
-    content: " ©";
+    content: " Â©";
 }
 .footer-bottom {
     background-color: rgba(0, 0, 0, 0.23);
@@ -31735,7 +31735,7 @@ footer h2 {
 }
 .project-details ul li::before {
     color: #333e4f;
-    content: "";
+    content: "ï„‘";
     font-family: "FontAwesome";
     font-size: 4px;
     left: 1px;
@@ -31957,7 +31957,7 @@ input[type="text"][disabled] {
     border: 1px solid #18bb7c;
     box-sizing: border-box;
     color: #18bb7c;
-    content: "";
+    content: "ï�§";
     font-family: FontAwesome;
     font-style: normal;
     font-weight: normal;
@@ -31973,7 +31973,7 @@ input[type="text"][disabled] {
 .accordions .content-title.active::after, .toggles .content-title.active::after {
     background-color: #18bb7c;
     color: #ffffff;
-    content: "";
+    content: "ï�¨";
 }
 .accordions .content-title::after {
     background-color: transparent !important;
@@ -32083,14 +32083,14 @@ input[type="text"][disabled] {
 }
 .tp-banner-container .tp-rightarrow::before, .tp-banner-container .tp-leftarrow::before {
     color: #000000;
-    content: "" !important;
+    content: "ï„…" !important;
     font-family: FontAwesome;
     font-size: 34px;
     line-height: 60px;
     opacity: 0.8;
 }
 .tp-banner-container .tp-leftarrow::before {
-    content: "" !important;
+    content: "ï„„" !important;
 }
 .tp-banner-container .tp-leftarrow {
     border-bottom-left-radius: 10px;
@@ -32501,11 +32501,11 @@ h2 + .carousel-nav + * {
     right: 5px;
 }
 .owl-controls .owl-buttons .owl-prev::before {
-    content: "";
+    content: "ï„„";
     line-height: 30px;
 }
 .owl-controls .owl-buttons .owl-next::before {
-    content: "";
+    content: "ï„…";
     line-height: 30px;
 }
 .video-player {
@@ -32598,7 +32598,7 @@ td.ui-datepicker-today::before {
     text-decoration: none;
 }
 .blog-post p a::before {
-    content: "→";
+    content: "â†’";
 }
 .grid-col-4 .blog-post {
     margin-bottom: 30px;
@@ -32668,19 +32668,19 @@ td.ui-datepicker-today::before {
     font-size: 13px;
 }
 .author-post::before, .tags-post a::before {
-    content: "";
+    content: "ï€‡";
     font-family: "FontAwesome";
     font-size: 18px;
     padding-right: 5px;
 }
 .tags-post a::before {
-    content: "";
+    content: "ï€«";
     font-size: 16px;
     padding-left: 10px;
     vertical-align: middle;
 }
 .tags-post a:first-child::before {
-    content: "";
+    content: "ï€®";
     padding-left: 0;
 }
 .blog-post + hr {
@@ -32960,7 +32960,7 @@ form.subscribe input[type="submit"]:hover {
 }
 .widget-meta li a::before, .widget-archives li a::before, .widget-categories li a::before {
     color: #18bb7c;
-    content: "√";
+    content: "âˆš";
     font-weight: 700;
     left: 10px;
     position: absolute;
@@ -33068,7 +33068,7 @@ section.widget-instructor article:last-child {
 .widget-comments .header-comments::before {
     background-color: #f27c66;
     color: #ffffff;
-    content: "“";
+    content: "â€œ";
     display: inline-block;
     font-family: "Arial";
     font-size: 48px;
@@ -34223,7 +34223,7 @@ select.filter.full-width {
     width: auto !important;
 }
 .select2 .select2-selection__arrow b::before {
-    content: "";
+    content: "ï„‡";
     font-family: FontAwesome;
 }
 .select2-results li::before {
@@ -34456,7 +34456,7 @@ select.filter.full-width {
     background-color: #f2f2f2;
 }
 .pricing-table ul li::before {
-    content: "√ ";
+    content: "âˆš ";
     font-size: 13px;
     left: 20px;
     line-height: 39px;
@@ -34693,7 +34693,7 @@ ol.commentlist {
     color: #e5e5e5;
 }
 .star-rating::before, .star-rating > span::before, .comment-form-rating .stars::before, .comment-form-rating .stars .stars-active {
-    content: "";
+    content: "ï€…ï€…ï€…ï€…ï€…";
     display: inline-block;
     font-family: FontAwesome;
     font-size: 18px;
@@ -34815,7 +34815,7 @@ p.form-row.form-row-wide.select-arrow {
 }
 p.form-row.form-row-wide.select-arrow::before {
     color: #333e4f;
-    content: "";
+    content: "ï„‡";
     font-family: FontAwesome;
     font-size: 17px;
     font-weight: 700;
@@ -35562,7 +35562,7 @@ p.form-row.form-row-wide.select-arrow::before {
 }
 .isotope-header .select-wrapper::before {
     color: #333e4f;
-    content: "";
+    content: "ï„‡";
     font-family: FontAwesome;
     font-size: 17px;
     font-weight: 700;
@@ -35767,7 +35767,7 @@ input[type="checkbox"], input[type="radio"] {
 }
 .checkbox label::before {
     color: #18bb7c;
-    content: "";
+    content: "ï€Œ";
     display: block;
     font-family: FontAwesome;
     line-height: 18px;
@@ -35848,7 +35848,7 @@ input[type="checkbox"], input[type="radio"] {
 }
 #page-meta .woocommerce-ordering::after {
     color: #333e4f;
-    content: "";
+    content: "ï„‡";
     font-family: FontAwesome;
     font-weight: 700;
     line-height: 34px;
@@ -36055,7 +36055,7 @@ input[type="checkbox"], input[type="radio"] {
 }
 .woocommerce .product_meta .tagged_as a::before {
     color: #f27c66;
-    content: "";
+    content: "ï‚—";
     font-family: FontAwesome;
     padding-right: 3px;
 }
@@ -36148,7 +36148,7 @@ input[type="checkbox"], input[type="radio"] {
     border-radius: 50%;
     box-sizing: border-box;
     color: #ffffff;
-    content: "";
+    content: "ï€�";
     display: inline-block;
     font-family: FontAwesome;
     font-size: 15px;
@@ -36344,7 +36344,7 @@ input[type="checkbox"], input[type="radio"] {
 }
 .woocommerce .shipping-calculator-form > *:first-child::before {
     color: #333e4f;
-    content: "";
+    content: "ï�¸";
     display: inline-block;
     font-family: FontAwesome;
     height: 33px;
@@ -37132,4 +37132,45 @@ hr {
     border-top: 1px solid #bfbfbf;
 }
 
+.bt-login,.bt-login:hover, .bt-login:active, .bt-login:focus {
+    background-color: #ff8627;
+    color: #ffffff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    transition: background-color 300ms linear 0s;
+}
 
+
+.login-tab {
+	margin: 0 auto;
+	max-width: 380px;
+}
+
+.login-modal-header {
+	background: #27ae60;
+	color: #fff;
+}
+
+.login-modal-header .modal-title {
+	color: #fff;
+}
+
+.login-modal-header .close {
+	color: #fff;
+}
+
+.login-modal i {
+	color: #000;
+}
+
+.login-modal form {
+	max-width: 340px;
+}
+
+.tab-pane form {
+	margin: 0 auto;
+}
+.login-modal-footer{
+	margin-top:15px;
+	margin-bottom:15px;
+}
