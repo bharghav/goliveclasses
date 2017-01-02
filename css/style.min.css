@@ -29622,7 +29622,8 @@ table {
 }
 
 .nicdark_navigation_3 {
-	margin-left: 70px
+	margin-left: 70px;
+	margin-top:30px;
 }
 
 .nicdark_navigation_3>ul {
