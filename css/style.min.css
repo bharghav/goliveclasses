@@ -13280,7 +13280,7 @@ body.header-fixed-space {
 }
 
 label, li, li a, p {
-	color: #555
+	color: #fff
 }
 
 a, a:active, a:focus, a:hover {
@@ -27892,13 +27892,16 @@ h1, h2, h3, h4, h5, h6, .nicdark_datepicker .ui-datepicker-header .ui-datepicker
 	{
 	color: #727475
 }
+.widget-subscribe-form > p {
+    color: #fff;
+}
 
 p, input, label, textarea, .nicdark_datepicker {
-	color: #a3a3a3
+	color: #000
 }
 
 a {
-	color: #a3a3a3
+	color: #fff
 }
 
 h1 {
