@@ -15,7 +15,7 @@ if (isset ($_SESSION['last_activity']) && $_SESSION['last_activity'] < $limit) {
   $_SESSION['last_activity'] = $now;
 }
 
-print_r($_SESSION['userid']);exit;
+//print_r($_SESSION['userid']);exit;
 if($_SESSION['userid']=="")
 {
 	header("Location: index.php?option=com_login");
