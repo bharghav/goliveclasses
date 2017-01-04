@@ -118,11 +118,13 @@ $where="us_name='".$_POST['chrUserName']."' and password='".$callConfig->passwor
  $query=$callConfig->selectQuery(TPREFIX.TBL_ADMIN,'*',$where,'','',''); 
 
 	$row=$callConfig->getRow($query);
+        
+      
 
 	if($row->user_id!="")
 
 	{
-
+          session_start();
 	$_SESSION['userid']=$row->user_id;
 
 	$_SESSION['us_name']=$row->us_name;
@@ -138,8 +140,10 @@ $where="us_name='".$_POST['chrUserName']."' and password='".$callConfig->passwor
 	$_SESSION['adminmemberjoinedon']=$row->createdon;
 
 	sitesettingsClass::recentActivities($_SESSION['us_name'].' > login sucessfully on > '.DATE_TIME_FORMAT.'','g');
-
-	header("location:index.php?option=com_dashboard");
+        
+       
+        
+	header("location: index.php?option=com_dashboard");
 
 	
 

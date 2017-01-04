@@ -97,7 +97,7 @@ define('DB_LIKE',' LIKE ');
 ###################################################################
 ######### Physical Path Constants 
 ###################################################################
-define(SITEROOT, 				$_SERVER['DOCUMENT_ROOT']."/fourchette");
+define(SITEROOT, 				$_SERVER['DOCUMENT_ROOT']."/goliveclasses");
 //define(SITEROOT, 				$_SERVER['DOCUMENT_ROOT']."");
 //define(SITEROOT, 				$_SERVER['DOCUMENT_ROOT']);
 /*define(LISTINGIMAGESROOT, 		SITEROOT."/images/listings");
@@ -109,7 +109,7 @@ define(USER_IMAGE_ROOT,	        SITEROOT."/images/");
 ###################################################################
 //define(SITEURL, 				"http://".$_SERVER['HTTP_HOST']);
 //define(SITEURL, 				"http://".$_SERVER['HTTP_HOST']."");
-define(SITEURL, 				"http://".$_SERVER['HTTP_HOST']."/fourchette");
+define(SITEURL, 				"http://".$_SERVER['HTTP_HOST']."/goliveclasses");
 
 //define(SITEPATH_URL,'http://'.$_SERVER['HTTP_HOST']);
 ?>

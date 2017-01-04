@@ -1,5 +1,7 @@
 <?php
 $userObj->userAuthentication();
+
+
 if($_POST['submit']=="Login")
 {
 //print_r($_POST); exit;
@@ -46,7 +48,7 @@ document.getElementById('loginform').style.display='block';
                     <hr>
                     
                     <div class="login-social-link centered">
-                    <p>Fourchette @ 2016</p>
+                        <p>Goliveclasses &copy; <?php echo date('Y');?></p>
                         
                     </div>
                     

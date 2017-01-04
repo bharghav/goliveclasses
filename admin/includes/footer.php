@@ -1,5 +1,5 @@
 <div class="foot_wrap">
-    	<span>2015 &copy; cheapsleepingpills. </span>
+    <span><?php echo date('Y');?> &copy; Goliveclasses. </span>
     </div><!--foot_wrap-->
 </body>
 </html>

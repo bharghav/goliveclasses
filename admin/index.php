@@ -14,7 +14,7 @@ $site_settings_disp=sitesettingsClass::getsitesettings();
 <html lang="en">
 <head>
         <meta charset="UTF-8">
-        <title>FourChette @ admin panel</title>
+        <title>Goliveclasses @ admin panel</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="style.css" type="text/css">
         <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>

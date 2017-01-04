@@ -6,7 +6,7 @@
                   <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Toggle Navigation"></div>
               </div>
             <!--logo start-->
-            <a href="index.php?option=com_dashboard" class="logo"><b>Fourchette Admin Panel</b></a>
+            <a href="index.php?option=com_dashboard" class="logo"><b>Goliveclasses Admin Panel</b></a>
             <!--logo end-->
             
             <div class="top-menu">
@@ -45,7 +45,7 @@ $(document).ready(function(){
               <!-- sidebar menu start-->
               <ul class="sidebar-menu" id="nav-accordion">
               
-                   <p class="centered"><a href="profile.html"><img src="../img/logo-first.png" class="img-circle" width="60"></a></p>
+                   <p class="centered"><a href="profile.html"><img src="../img/logos/goliveclasess-log2.jpg" class="img-circle" width="60"></a></p>
                   <h5 class="centered">Admin</h5> 
                     
                   <li class="mt">
